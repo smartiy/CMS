@@ -9,7 +9,7 @@
 
             <!-- Blog Entries Column -->
             <div class="col-md-8">
-                
+                <!-- Tukaj sem dodal komentar -->
             <?php
                 
             if(isset($_GET['page'])) {
